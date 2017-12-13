@@ -5,4 +5,5 @@ Description in Russian - https://geektimes.ru/post/293525/
 
 Development of the case and mechanics for the 3D printer Savva Osipov. 
 Ilya Osipov and Igor Timoveev helped
+https://www.youtube.com/watch?v=R8sVSa7UY7E
 
